@@ -1,0 +1,28 @@
+email=hamza
+password=hamza
+nick=juj
+playid=4646
+phone=46466866987
+level=5
+tier=Gold
+rpt=Free Royale Pass
+rpl=7
+login=Facebook
+
+
+
+
+email=ali
+password=ali
+nick=ffugui
+playid=5587
+phone=464648
+level=2
+tier=Silver
+rpt=Elite Royale Pass
+rpl=9
+login=Facebook
+
+
+
+
